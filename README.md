@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Willard Hostland Banner">
+</p>
+
 # 👋 Hi, I'm **Willard Hostland**
 ### **Data Analyst — SQL • Python • Tableau • Data Visualization**  
 Ciudad de México, México
@@ -87,6 +91,6 @@ This experience gives me a strong foundation in **problem‑solving, leadership,
 ---
 
 ## 📁 GitHub Stats (Optional)
-```markdown
+
 ![Willard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillardHostland&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WillardHostland&layout=compact&theme=tokyonight)
